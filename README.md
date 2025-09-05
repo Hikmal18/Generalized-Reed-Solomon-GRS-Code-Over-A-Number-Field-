@@ -1,5 +1,7 @@
-Hikmal Maulana Ramadhan
-Mathematics Study Program, Faculty of Mathematics and Natural Sciences
+## Author
+
+Hikmal Maulana Ramadhan  
+Mathematics Study Program, Faculty of Mathematics and Natural Sciences  
 University of Mataram
 
 # GRS Code over Number Fields
